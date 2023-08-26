@@ -1,0 +1,24 @@
+.custom-bg{
+    background: #232F3E!important;
+}
+.admin .card{
+    border: 2px solid #232f3e;
+}      
+
+.admin .card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+.list-group-item.active{
+   background: #37475A!important;
+   border-color: #232F3E!important;
+}
+.buynow{
+    background: #ff9900! important;
+}
+
+
+
+
+    
+
